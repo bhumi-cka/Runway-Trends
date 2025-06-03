@@ -1,0 +1,9 @@
+__pycache__/
+.venv
+app (1).py
+app2.py
+app3.py
+base.py
+runway trends.webm
+test.py
+.gitignore
